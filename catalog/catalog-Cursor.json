@@ -1,0 +1,1215 @@
+{
+  "arrangement": {
+    "container_bars": 32,
+    "description": "Glass Harbor variation A arranged over 32 bars. Bars 1-8 are drums and pad. Bars 9-16 add bass and keys. Bars 17-24 add the lead. Bars 25-32 keep drums, pad, bass, and lead, and leave the keys out. Each musical track is one or more copies of the 8-bar part, placed at the listed bar offsets.",
+    "id": "k01-arrangement-a",
+    "kit_id": "k01",
+    "path": "midi/arrangement.mid"
+  },
+  "arrangements": [
+    {
+      "bpm": 128,
+      "container_bars": 32,
+      "description": "Glass Harbor variation A arranged over 32 bars. Bars 1-8 are drums and pad. Bars 9-16 add bass and keys. Bars 17-24 add the lead. Bars 25-32 keep drums, pad, bass, and lead, and leave the keys out. Each musical track is one or more copies of the 8-bar part, placed at the listed bar offsets.",
+      "id": "k01-arrangement-a",
+      "kit_id": "k01",
+      "path": "midi/arrangement.mid",
+      "placements": {
+        "k01.bass.a": [
+          8,
+          16,
+          24
+        ],
+        "k01.drums.a": [
+          0,
+          8,
+          16,
+          24
+        ],
+        "k01.keys.a": [
+          8,
+          16
+        ],
+        "k01.lead.a": [
+          16,
+          24
+        ],
+        "k01.pad.a": [
+          0,
+          8,
+          16,
+          24
+        ]
+      }
+    },
+    {
+      "bpm": 132,
+      "container_bars": 32,
+      "description": "Soft Lantern variation A arranged over 32 bars. Bars 1-8 are drums and pad. Bars 9-16 add bass and keys. Bars 17-24 add the lead. Bars 25-32 keep drums, pad, bass, and lead, and leave the keys out. Each musical track is one or more copies of the 8-bar part, placed at the listed bar offsets.",
+      "id": "k02-arrangement-a",
+      "kit_id": "k02",
+      "path": "midi/k02-soft-lantern/arrangement.mid",
+      "placements": {
+        "k02.bass.a": [
+          8,
+          16,
+          24
+        ],
+        "k02.drums.a": [
+          0,
+          8,
+          16,
+          24
+        ],
+        "k02.keys.a": [
+          8,
+          16
+        ],
+        "k02.lead.a": [
+          16,
+          24
+        ],
+        "k02.pad.a": [
+          0,
+          8,
+          16,
+          24
+        ]
+      }
+    },
+    {
+      "bpm": 136,
+      "container_bars": 32,
+      "description": "Wide Meadow variation A arranged over 32 bars. Bars 1-8 are drums and pad. Bars 9-16 add bass and keys. Bars 17-24 add the lead. Bars 25-32 keep drums, pad, bass, and lead, and leave the keys out. Each musical track is one or more copies of the 8-bar part, placed at the listed bar offsets.",
+      "id": "k03-arrangement-a",
+      "kit_id": "k03",
+      "path": "midi/k03-wide-meadow/arrangement.mid",
+      "placements": {
+        "k03.bass.a": [
+          8,
+          16,
+          24
+        ],
+        "k03.drums.a": [
+          0,
+          8,
+          16,
+          24
+        ],
+        "k03.keys.a": [
+          8,
+          16
+        ],
+        "k03.lead.a": [
+          16,
+          24
+        ],
+        "k03.pad.a": [
+          0,
+          8,
+          16,
+          24
+        ]
+      }
+    },
+    {
+      "bpm": 126,
+      "container_bars": 32,
+      "description": "Night Window variation A arranged over 32 bars. Bars 1-8 are drums and pad. Bars 9-16 add bass and keys. Bars 17-24 add the lead. Bars 25-32 keep drums, pad, bass, and lead, and leave the keys out. Each musical track is one or more copies of the 8-bar part, placed at the listed bar offsets.",
+      "id": "k04-arrangement-a",
+      "kit_id": "k04",
+      "path": "midi/k04-night-window/arrangement.mid",
+      "placements": {
+        "k04.bass.a": [
+          8,
+          16,
+          24
+        ],
+        "k04.drums.a": [
+          0,
+          8,
+          16,
+          24
+        ],
+        "k04.keys.a": [
+          8,
+          16
+        ],
+        "k04.lead.a": [
+          16,
+          24
+        ],
+        "k04.pad.a": [
+          0,
+          8,
+          16,
+          24
+        ]
+      }
+    }
+  ],
+  "c4": 60,
+  "catalog_version": "dream-trance-1.0.0",
+  "container_plan": "Core parts are 8 bars. Arrangements are 32 bars. Lengths were fixed before the notes.",
+  "core_part_count": 40,
+  "creative_direction": "Lyrical original motifs, gentle tension, rhythmic foundations, and spacious melodic development. The BPM range is a project choice, not a claim that these files are authentic genre productions.",
+  "drum_channel": 10,
+  "drum_map": {
+    "36": "Bass Drum 1",
+    "38": "Acoustic Snare",
+    "42": "Closed Hi-Hat",
+    "46": "Open Hi-Hat",
+    "49": "Crash Cymbal 1"
+  },
+  "generator_version": "dream-trance-1.0.0",
+  "kits": [
+    {
+      "arrangement_bars": 32,
+      "arrangement_phrases": [
+        {
+          "name": "Atmosphere",
+          "start_bar": 0
+        },
+        {
+          "name": "Foundation",
+          "start_bar": 8
+        },
+        {
+          "name": "Melody",
+          "start_bar": 16
+        },
+        {
+          "name": "Return",
+          "start_bar": 24
+        }
+      ],
+      "bar_ticks": 3840,
+      "bars": 8,
+      "bpm": 128,
+      "change_bars": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "changes": [
+        "Dmaj7",
+        "Gmaj7",
+        "Bm7",
+        "A6"
+      ],
+      "collection_name": "D major",
+      "departures": [
+        "Bass B has one C2 (36) at bar 1, tick 2880. C is outside D major. Bar 2 returns to G2."
+      ],
+      "effective_bpm": 128.0,
+      "harmonic_rhythm": "Keys A: Dmaj7 for 2 bars spelled D4 F#4 A4 C#5; Gmaj7 for 2 bars spelled G3 B3 D4 F#4; Bm7 for 2 bars spelled B3 D4 F#4 A4; A6 for 2 bars spelled A3 C#4 E4 F#4. Pad A: Dmaj7 for 2 bars spelled D3 F#3 A3 C#4; Gmaj7 for 2 bars spelled G3 B3 D4 F#4; Bm7 for 2 bars spelled B2 D3 F#3 A3; A6 for 2 bars spelled A2 C#3 E3 F#3.",
+      "id": "k01",
+      "identity": "Glass Harbor is 128 BPM in D major. Lead A states D5 F#5 A5, turns G5 F#5 E5 D5, lifts B4 C#5 D5 F#5, and settles E5 D5 A4. Keys A arpeggiate Dmaj7 spelled D4 F#4 A4 C#5, Gmaj7 spelled G3 B3 D4 F#4, Bm7 spelled B3 D4 F#4 A4, and A6 spelled A3 C#4 E4 F#4. The pad holds Dmaj7 spelled D3 F#3 A3 C#4, Gmaj7 spelled G3 B3 D4 F#4, Bm7 spelled B2 D3 F#3 A3, and A6 spelled A2 C#3 E3 F#3. Bass A sounds D2 A2, then G2 D3, then B1 F#2, then A1 E2. Variation B changes every role: the lead starts after the downbeat, the keys become stabs, the bass walks eighths with one C2, the pad enters late, and the kick moves to half time.",
+      "limitations": "Variation A and variation B are alternatives. Do not stack them. Do not mix parts from different kits: the tempos and collections differ. The 32-bar arrangement uses variation A only. Keys are chords or broken chords. The lead is one line. Closed and open hats never overlap, and no hat-choke controller is written.",
+      "meter": "4/4",
+      "part_bars": 8,
+      "phrases": [
+        {
+          "name": "Opening",
+          "start_bar": 0
+        },
+        {
+          "name": "Turn",
+          "start_bar": 2
+        },
+        {
+          "name": "Lift",
+          "start_bar": 4
+        },
+        {
+          "name": "Settle",
+          "start_bar": 6
+        }
+      ],
+      "pitch_classes": [
+        1,
+        2,
+        4,
+        6,
+        7,
+        9,
+        11
+      ],
+      "placements": {
+        "bass": [
+          8,
+          16,
+          24
+        ],
+        "drums": [
+          0,
+          8,
+          16,
+          24
+        ],
+        "keys": [
+          8,
+          16
+        ],
+        "lead": [
+          16,
+          24
+        ],
+        "pad": [
+          0,
+          8,
+          16,
+          24
+        ]
+      },
+      "seed": 12828,
+      "slug": "k01-glass-harbor",
+      "spell": [
+        "C",
+        "C#",
+        "D",
+        "D#",
+        "E",
+        "F",
+        "F#",
+        "G",
+        "G#",
+        "A",
+        "A#",
+        "B"
+      ],
+      "stochastic_draws": 0,
+      "tempo_us": 468750,
+      "title": "Glass Harbor",
+      "tonal_reference": "D",
+      "tonic": "D"
+    },
+    {
+      "arrangement_bars": 32,
+      "arrangement_phrases": [
+        {
+          "name": "Atmosphere",
+          "start_bar": 0
+        },
+        {
+          "name": "Foundation",
+          "start_bar": 8
+        },
+        {
+          "name": "Melody",
+          "start_bar": 16
+        },
+        {
+          "name": "Return",
+          "start_bar": 24
+        }
+      ],
+      "bar_ticks": 3840,
+      "bars": 8,
+      "bpm": 132,
+      "change_bars": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "changes": [
+        "Am7",
+        "G6",
+        "F#m7b5",
+        "Em7"
+      ],
+      "collection_name": "A dorian",
+      "departures": [
+        "Lead B has one C#5 (73) at bar 5, tick 0. C# is outside A dorian. The next note is B4."
+      ],
+      "effective_bpm": 132.000132000132,
+      "harmonic_rhythm": "Keys A: Am7 for 2 bars spelled A3 C4 E4 G4; G6 for 2 bars spelled G3 B3 D4 E4; F#m7b5 for 2 bars spelled F#3 A3 C4 E4; Em7 for 2 bars spelled E3 G3 B3 D4.",
+      "id": "k02",
+      "identity": "Soft Lantern is 132 BPM in A dorian. Lead A waits one beat, then states C5 D5 E5, holds G5 E5, turns D5 C5 A4, holds B4, then spells A4 C5 E5 F#5 and falls E5 D5 C5 A4. Keys A hold Am7 spelled A3 C4 E4 G4, G6 spelled G3 B3 D4 E4, F#m7b5 spelled F#3 A3 C4 E4, and Em7 spelled E3 G3 B3 D4. The pad answers on beat 3 with three-note subsets of those chords. Bass A holds A1 E2, G1 D2, F#1 C2, and E1 B1, one note per bar. Variation B breaks the keys into offbeat eighths and gives the lead long tones, including one C#5 outside A dorian.",
+      "limitations": "Variation A and variation B are alternatives. Do not stack them. Do not mix parts from different kits: the tempos and collections differ. The 32-bar arrangement uses variation A only. Keys are chords or broken chords. The lead is one line. Closed and open hats never overlap, and no hat-choke controller is written.",
+      "meter": "4/4",
+      "part_bars": 8,
+      "phrases": [
+        {
+          "name": "Opening",
+          "start_bar": 0
+        },
+        {
+          "name": "Turn",
+          "start_bar": 2
+        },
+        {
+          "name": "Lift",
+          "start_bar": 4
+        },
+        {
+          "name": "Settle",
+          "start_bar": 6
+        }
+      ],
+      "pitch_classes": [
+        9,
+        11,
+        0,
+        2,
+        4,
+        6,
+        7
+      ],
+      "placements": {
+        "bass": [
+          8,
+          16,
+          24
+        ],
+        "drums": [
+          0,
+          8,
+          16,
+          24
+        ],
+        "keys": [
+          8,
+          16
+        ],
+        "lead": [
+          16,
+          24
+        ],
+        "pad": [
+          0,
+          8,
+          16,
+          24
+        ]
+      },
+      "seed": 13228,
+      "slug": "k02-soft-lantern",
+      "spell": [
+        "C",
+        "C#",
+        "D",
+        "D#",
+        "E",
+        "F",
+        "F#",
+        "G",
+        "G#",
+        "A",
+        "A#",
+        "B"
+      ],
+      "stochastic_draws": 0,
+      "tempo_us": 454545,
+      "title": "Soft Lantern",
+      "tonal_reference": "A",
+      "tonic": "A"
+    },
+    {
+      "arrangement_bars": 32,
+      "arrangement_phrases": [
+        {
+          "name": "Atmosphere",
+          "start_bar": 0
+        },
+        {
+          "name": "Foundation",
+          "start_bar": 8
+        },
+        {
+          "name": "Melody",
+          "start_bar": 16
+        },
+        {
+          "name": "Return",
+          "start_bar": 24
+        }
+      ],
+      "bar_ticks": 3840,
+      "bars": 8,
+      "bpm": 136,
+      "change_bars": [
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "changes": [
+        "Fmaj7#11",
+        "Cmaj7",
+        "G6",
+        "Dm7",
+        "Fmaj7#11"
+      ],
+      "collection_name": "F lydian",
+      "departures": [
+        "Bass B has one Bb2 (46) at bar 3, tick 1440. Bb is outside F lydian. The next note is A2."
+      ],
+      "effective_bpm": 136.0001450668214,
+      "harmonic_rhythm": "Keys A: Fmaj7#11 for 1 bar spelled F3 A3 C4 B4; Fmaj7#11 for 1 bar spelled F3 A3 C4 B4; Cmaj7 for 1 bar spelled C4 E4 G4 B4; Cmaj7 for 1 bar spelled C4 E4 G4 B4; G6 for 1 bar spelled G3 B3 D4 E4; G6 for 1 bar spelled G3 B3 D4 E4; Dm7 for 1 bar spelled D3 F3 A3 C4; Fmaj7#11 for 1 bar spelled F3 A3 C4 B4. Pad A: Fmaj7#11 for 2 bars spelled F3 C4 B4; Cmaj7 for 2 bars spelled C4 E4 B4; G6 for 2 bars spelled G3 D4 E4; Dm7 for 1 bar spelled D3 F3 C4; Fmaj7#11 for 1 bar spelled F3 A3 B4.",
+      "id": "k03",
+      "identity": "Wide Meadow is 136 BPM in F lydian. The B natural is the raised fourth, written as an ordinary note. Lead A leaps F5 to C6, then A5, and later spells D5 B4 G4 before F4. Keys A hold Fmaj7#11 spelled F3 A3 C4 B4, Cmaj7 spelled C4 E4 G4 B4, G6 spelled G3 B3 D4 E4, Dm7 spelled D3 F3 A3 C4, and a return to Fmaj7#11 spelled F3 A3 C4 B4. Pad A uses three-note subsets: Fmaj7#11 spelled F3 C4 B4, Cmaj7 spelled C4 E4 B4, G6 spelled G3 D4 E4, Dm7 spelled D3 F3 C4, and Fmaj7#11 spelled F3 A3 B4. Bass A pulses the root in eighths and sounds the fifth on beat 3, returning to F2 A2 C3 F2 in bar 8. Variation B moves the keys into the second half of the bar and walks the bass in offbeats, with one Bb2.",
+      "limitations": "Variation A and variation B are alternatives. Do not stack them. Do not mix parts from different kits: the tempos and collections differ. The 32-bar arrangement uses variation A only. Keys are chords or broken chords. The lead is one line. Closed and open hats never overlap, and no hat-choke controller is written.",
+      "meter": "4/4",
+      "part_bars": 8,
+      "phrases": [
+        {
+          "name": "Opening",
+          "start_bar": 0
+        },
+        {
+          "name": "Turn",
+          "start_bar": 2
+        },
+        {
+          "name": "Lift",
+          "start_bar": 4
+        },
+        {
+          "name": "Settle",
+          "start_bar": 6
+        }
+      ],
+      "pitch_classes": [
+        5,
+        7,
+        9,
+        11,
+        0,
+        2,
+        4
+      ],
+      "placements": {
+        "bass": [
+          8,
+          16,
+          24
+        ],
+        "drums": [
+          0,
+          8,
+          16,
+          24
+        ],
+        "keys": [
+          8,
+          16
+        ],
+        "lead": [
+          16,
+          24
+        ],
+        "pad": [
+          0,
+          8,
+          16,
+          24
+        ]
+      },
+      "seed": 13628,
+      "slug": "k03-wide-meadow",
+      "spell": [
+        "C",
+        "C#",
+        "D",
+        "D#",
+        "E",
+        "F",
+        "F#",
+        "G",
+        "G#",
+        "A",
+        "A#",
+        "B"
+      ],
+      "stochastic_draws": 0,
+      "tempo_us": 441176,
+      "title": "Wide Meadow",
+      "tonal_reference": "F",
+      "tonic": "F"
+    },
+    {
+      "arrangement_bars": 32,
+      "arrangement_phrases": [
+        {
+          "name": "Atmosphere",
+          "start_bar": 0
+        },
+        {
+          "name": "Foundation",
+          "start_bar": 8
+        },
+        {
+          "name": "Melody",
+          "start_bar": 16
+        },
+        {
+          "name": "Return",
+          "start_bar": 24
+        }
+      ],
+      "bar_ticks": 3840,
+      "bars": 8,
+      "bpm": 126,
+      "change_bars": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "changes": [
+        "Bm add9",
+        "Gmaj7",
+        "Em7",
+        "F#m7"
+      ],
+      "collection_name": "B natural minor",
+      "departures": [
+        "Pad B has one A#4 (70) at bar 7, tick 0, beside C#5. A# is outside B natural minor. The next dyad is F#4 B4."
+      ],
+      "effective_bpm": 126.000126000126,
+      "harmonic_rhythm": "Pad A: Bm add9 for 2 bars spelled B3 D4 F#4 C#5; Gmaj7 for 2 bars spelled G3 B3 D4 F#4; Em7 for 2 bars spelled E3 G3 B3 D4; F#m7 for 2 bars spelled F#3 A3 C#4 E4.",
+      "id": "k04",
+      "identity": "Night Window is 126 BPM in B natural minor. There is no raised leading tone in variation A. Lead A starts on beat 3 with D5, then C#5 B4 G4, holds A4, lifts E5, and ends F#4. Keys A break tenths in quarter notes: bar 1 spells B3 F#4 D4 B3. The pad enters on beat 2 and holds Bm add9 spelled B3 D4 F#4 C#5, Gmaj7 spelled G3 B3 D4 F#4, Em7 spelled E3 G3 B3 D4, and F#m7 spelled F#3 A3 C#4 E4. Bass A sounds three offbeat sixteenths: B1 F#2 B1, then G1 D2 G1, E1 B1 E1, and F#1 C#2 F#1. Variation B answers with eighth-note lead cells, dyad keys, half-note bass, and one A#4 in the pad.",
+      "limitations": "Variation A and variation B are alternatives. Do not stack them. Do not mix parts from different kits: the tempos and collections differ. The 32-bar arrangement uses variation A only. Keys are chords or broken chords. The lead is one line. Closed and open hats never overlap, and no hat-choke controller is written.",
+      "meter": "4/4",
+      "part_bars": 8,
+      "phrases": [
+        {
+          "name": "Opening",
+          "start_bar": 0
+        },
+        {
+          "name": "Turn",
+          "start_bar": 2
+        },
+        {
+          "name": "Lift",
+          "start_bar": 4
+        },
+        {
+          "name": "Settle",
+          "start_bar": 6
+        }
+      ],
+      "pitch_classes": [
+        11,
+        1,
+        2,
+        4,
+        6,
+        7,
+        9
+      ],
+      "placements": {
+        "bass": [
+          8,
+          16,
+          24
+        ],
+        "drums": [
+          0,
+          8,
+          16,
+          24
+        ],
+        "keys": [
+          8,
+          16
+        ],
+        "lead": [
+          16,
+          24
+        ],
+        "pad": [
+          0,
+          8,
+          16,
+          24
+        ]
+      },
+      "seed": 12628,
+      "slug": "k04-night-window",
+      "spell": [
+        "C",
+        "C#",
+        "D",
+        "D#",
+        "E",
+        "F",
+        "F#",
+        "G",
+        "G#",
+        "A",
+        "A#",
+        "B"
+      ],
+      "stochastic_draws": 0,
+      "tempo_us": 476190,
+      "title": "Night Window",
+      "tonal_reference": "B",
+      "tonic": "B"
+    }
+  ],
+  "meter": {
+    "bar_ticks": 3840,
+    "denominator": 4,
+    "numerator": 4
+  },
+  "microtiming": "offset is 0; performed_start = nominal_start",
+  "note_policy": "Note-only MIDI. No program changes, controllers, pitch bend, or samples are encoded.",
+  "pack_id": "dream-trance",
+  "pack_name": "Dream Trance",
+  "parts": [
+    {
+      "bpm": 128,
+      "channel": 9,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.drums.a",
+      "kit_id": "k01",
+      "monophonic": false,
+      "notes": 114,
+      "path": "midi/k01-glass-harbor/drums-a.mid",
+      "role": "drums",
+      "variation": "a"
+    },
+    {
+      "bpm": 128,
+      "channel": 0,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.bass.a",
+      "kit_id": "k01",
+      "monophonic": true,
+      "notes": 16,
+      "path": "midi/k01-glass-harbor/bass-a.mid",
+      "role": "bass",
+      "variation": "a"
+    },
+    {
+      "bpm": 128,
+      "channel": 1,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.keys.a",
+      "kit_id": "k01",
+      "monophonic": false,
+      "notes": 64,
+      "path": "midi/k01-glass-harbor/keys-a.mid",
+      "role": "keys",
+      "variation": "a"
+    },
+    {
+      "bpm": 128,
+      "channel": 2,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.lead.a",
+      "kit_id": "k01",
+      "monophonic": true,
+      "notes": 14,
+      "path": "midi/k01-glass-harbor/lead-a.mid",
+      "role": "lead",
+      "variation": "a"
+    },
+    {
+      "bpm": 128,
+      "channel": 3,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.pad.a",
+      "kit_id": "k01",
+      "monophonic": false,
+      "notes": 16,
+      "path": "midi/k01-glass-harbor/pad-a.mid",
+      "role": "pad",
+      "variation": "a"
+    },
+    {
+      "bpm": 128,
+      "channel": 9,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.drums.b",
+      "kit_id": "k01",
+      "monophonic": false,
+      "notes": 56,
+      "path": "midi/k01-glass-harbor/drums-b.mid",
+      "role": "drums",
+      "variation": "b"
+    },
+    {
+      "bpm": 128,
+      "channel": 0,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.bass.b",
+      "kit_id": "k01",
+      "monophonic": true,
+      "notes": 32,
+      "path": "midi/k01-glass-harbor/bass-b.mid",
+      "role": "bass",
+      "variation": "b"
+    },
+    {
+      "bpm": 128,
+      "channel": 1,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.keys.b",
+      "kit_id": "k01",
+      "monophonic": false,
+      "notes": 56,
+      "path": "midi/k01-glass-harbor/keys-b.mid",
+      "role": "keys",
+      "variation": "b"
+    },
+    {
+      "bpm": 128,
+      "channel": 2,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.lead.b",
+      "kit_id": "k01",
+      "monophonic": true,
+      "notes": 21,
+      "path": "midi/k01-glass-harbor/lead-b.mid",
+      "role": "lead",
+      "variation": "b"
+    },
+    {
+      "bpm": 128,
+      "channel": 3,
+      "container_bars": 8,
+      "core": true,
+      "id": "k01.pad.b",
+      "kit_id": "k01",
+      "monophonic": false,
+      "notes": 48,
+      "path": "midi/k01-glass-harbor/pad-b.mid",
+      "role": "pad",
+      "variation": "b"
+    },
+    {
+      "bpm": 132,
+      "channel": 9,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.drums.a",
+      "kit_id": "k02",
+      "monophonic": false,
+      "notes": 88,
+      "path": "midi/k02-soft-lantern/drums-a.mid",
+      "role": "drums",
+      "variation": "a"
+    },
+    {
+      "bpm": 132,
+      "channel": 0,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.bass.a",
+      "kit_id": "k02",
+      "monophonic": true,
+      "notes": 8,
+      "path": "midi/k02-soft-lantern/bass-a.mid",
+      "role": "bass",
+      "variation": "a"
+    },
+    {
+      "bpm": 132,
+      "channel": 1,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.keys.a",
+      "kit_id": "k02",
+      "monophonic": false,
+      "notes": 16,
+      "path": "midi/k02-soft-lantern/keys-a.mid",
+      "role": "keys",
+      "variation": "a"
+    },
+    {
+      "bpm": 132,
+      "channel": 2,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.lead.a",
+      "kit_id": "k02",
+      "monophonic": true,
+      "notes": 18,
+      "path": "midi/k02-soft-lantern/lead-a.mid",
+      "role": "lead",
+      "variation": "a"
+    },
+    {
+      "bpm": 132,
+      "channel": 3,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.pad.a",
+      "kit_id": "k02",
+      "monophonic": false,
+      "notes": 24,
+      "path": "midi/k02-soft-lantern/pad-a.mid",
+      "role": "pad",
+      "variation": "a"
+    },
+    {
+      "bpm": 132,
+      "channel": 9,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.drums.b",
+      "kit_id": "k02",
+      "monophonic": false,
+      "notes": 112,
+      "path": "midi/k02-soft-lantern/drums-b.mid",
+      "role": "drums",
+      "variation": "b"
+    },
+    {
+      "bpm": 132,
+      "channel": 0,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.bass.b",
+      "kit_id": "k02",
+      "monophonic": true,
+      "notes": 16,
+      "path": "midi/k02-soft-lantern/bass-b.mid",
+      "role": "bass",
+      "variation": "b"
+    },
+    {
+      "bpm": 132,
+      "channel": 1,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.keys.b",
+      "kit_id": "k02",
+      "monophonic": false,
+      "notes": 32,
+      "path": "midi/k02-soft-lantern/keys-b.mid",
+      "role": "keys",
+      "variation": "b"
+    },
+    {
+      "bpm": 132,
+      "channel": 2,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.lead.b",
+      "kit_id": "k02",
+      "monophonic": true,
+      "notes": 12,
+      "path": "midi/k02-soft-lantern/lead-b.mid",
+      "role": "lead",
+      "variation": "b"
+    },
+    {
+      "bpm": 132,
+      "channel": 3,
+      "container_bars": 8,
+      "core": true,
+      "id": "k02.pad.b",
+      "kit_id": "k02",
+      "monophonic": false,
+      "notes": 16,
+      "path": "midi/k02-soft-lantern/pad-b.mid",
+      "role": "pad",
+      "variation": "b"
+    },
+    {
+      "bpm": 136,
+      "channel": 9,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.drums.a",
+      "kit_id": "k03",
+      "monophonic": false,
+      "notes": 65,
+      "path": "midi/k03-wide-meadow/drums-a.mid",
+      "role": "drums",
+      "variation": "a"
+    },
+    {
+      "bpm": 136,
+      "channel": 0,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.bass.a",
+      "kit_id": "k03",
+      "monophonic": true,
+      "notes": 32,
+      "path": "midi/k03-wide-meadow/bass-a.mid",
+      "role": "bass",
+      "variation": "a"
+    },
+    {
+      "bpm": 136,
+      "channel": 1,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.keys.a",
+      "kit_id": "k03",
+      "monophonic": false,
+      "notes": 32,
+      "path": "midi/k03-wide-meadow/keys-a.mid",
+      "role": "keys",
+      "variation": "a"
+    },
+    {
+      "bpm": 136,
+      "channel": 2,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.lead.a",
+      "kit_id": "k03",
+      "monophonic": true,
+      "notes": 19,
+      "path": "midi/k03-wide-meadow/lead-a.mid",
+      "role": "lead",
+      "variation": "a"
+    },
+    {
+      "bpm": 136,
+      "channel": 3,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.pad.a",
+      "kit_id": "k03",
+      "monophonic": false,
+      "notes": 15,
+      "path": "midi/k03-wide-meadow/pad-a.mid",
+      "role": "pad",
+      "variation": "a"
+    },
+    {
+      "bpm": 136,
+      "channel": 9,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.drums.b",
+      "kit_id": "k03",
+      "monophonic": false,
+      "notes": 152,
+      "path": "midi/k03-wide-meadow/drums-b.mid",
+      "role": "drums",
+      "variation": "b"
+    },
+    {
+      "bpm": 136,
+      "channel": 0,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.bass.b",
+      "kit_id": "k03",
+      "monophonic": true,
+      "notes": 32,
+      "path": "midi/k03-wide-meadow/bass-b.mid",
+      "role": "bass",
+      "variation": "b"
+    },
+    {
+      "bpm": 136,
+      "channel": 1,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.keys.b",
+      "kit_id": "k03",
+      "monophonic": false,
+      "notes": 64,
+      "path": "midi/k03-wide-meadow/keys-b.mid",
+      "role": "keys",
+      "variation": "b"
+    },
+    {
+      "bpm": 136,
+      "channel": 2,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.lead.b",
+      "kit_id": "k03",
+      "monophonic": true,
+      "notes": 24,
+      "path": "midi/k03-wide-meadow/lead-b.mid",
+      "role": "lead",
+      "variation": "b"
+    },
+    {
+      "bpm": 136,
+      "channel": 3,
+      "container_bars": 8,
+      "core": true,
+      "id": "k03.pad.b",
+      "kit_id": "k03",
+      "monophonic": false,
+      "notes": 24,
+      "path": "midi/k03-wide-meadow/pad-b.mid",
+      "role": "pad",
+      "variation": "b"
+    },
+    {
+      "bpm": 126,
+      "channel": 9,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.drums.a",
+      "kit_id": "k04",
+      "monophonic": false,
+      "notes": 64,
+      "path": "midi/k04-night-window/drums-a.mid",
+      "role": "drums",
+      "variation": "a"
+    },
+    {
+      "bpm": 126,
+      "channel": 0,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.bass.a",
+      "kit_id": "k04",
+      "monophonic": true,
+      "notes": 24,
+      "path": "midi/k04-night-window/bass-a.mid",
+      "role": "bass",
+      "variation": "a"
+    },
+    {
+      "bpm": 126,
+      "channel": 1,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.keys.a",
+      "kit_id": "k04",
+      "monophonic": false,
+      "notes": 32,
+      "path": "midi/k04-night-window/keys-a.mid",
+      "role": "keys",
+      "variation": "a"
+    },
+    {
+      "bpm": 126,
+      "channel": 2,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.lead.a",
+      "kit_id": "k04",
+      "monophonic": true,
+      "notes": 10,
+      "path": "midi/k04-night-window/lead-a.mid",
+      "role": "lead",
+      "variation": "a"
+    },
+    {
+      "bpm": 126,
+      "channel": 3,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.pad.a",
+      "kit_id": "k04",
+      "monophonic": false,
+      "notes": 16,
+      "path": "midi/k04-night-window/pad-a.mid",
+      "role": "pad",
+      "variation": "a"
+    },
+    {
+      "bpm": 126,
+      "channel": 9,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.drums.b",
+      "kit_id": "k04",
+      "monophonic": false,
+      "notes": 72,
+      "path": "midi/k04-night-window/drums-b.mid",
+      "role": "drums",
+      "variation": "b"
+    },
+    {
+      "bpm": 126,
+      "channel": 0,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.bass.b",
+      "kit_id": "k04",
+      "monophonic": true,
+      "notes": 16,
+      "path": "midi/k04-night-window/bass-b.mid",
+      "role": "bass",
+      "variation": "b"
+    },
+    {
+      "bpm": 126,
+      "channel": 1,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.keys.b",
+      "kit_id": "k04",
+      "monophonic": false,
+      "notes": 32,
+      "path": "midi/k04-night-window/keys-b.mid",
+      "role": "keys",
+      "variation": "b"
+    },
+    {
+      "bpm": 126,
+      "channel": 2,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.lead.b",
+      "kit_id": "k04",
+      "monophonic": true,
+      "notes": 32,
+      "path": "midi/k04-night-window/lead-b.mid",
+      "role": "lead",
+      "variation": "b"
+    },
+    {
+      "bpm": 126,
+      "channel": 3,
+      "container_bars": 8,
+      "core": true,
+      "id": "k04.pad.b",
+      "kit_id": "k04",
+      "monophonic": false,
+      "notes": 32,
+      "path": "midi/k04-night-window/pad-b.mid",
+      "role": "pad",
+      "variation": "b"
+    }
+  ],
+  "ppq": 960,
+  "preview": {
+    "arrangement_path": "midi/arrangement.mid",
+    "bpm": 128,
+    "end_bar_index": 24,
+    "end_tick": 92160,
+    "kit_id": "k01",
+    "musical_bars": "17-24",
+    "start_bar_index": 16,
+    "start_tick": 61440,
+    "statement": "Bars 17-24 of the Glass Harbor arrangement. Eight bars at 128 BPM. Variation A of drums, bass, keys, lead, and pad.",
+    "title": "Glass Harbor",
+    "variation": "a"
+  },
+  "preview_part_ids": [
+    "k01.drums.a",
+    "k01.bass.a",
+    "k01.keys.a",
+    "k01.lead.a",
+    "k01.pad.a"
+  ],
+  "range_statement": "Drums use channel 10 and the map in this catalog. Bass is monophonic, MIDI 28 to 52. Keys are MIDI 48 to 79, at most four notes. Lead is monophonic, MIDI 60 to 86. Pad is MIDI 45 to 76, at most four notes. C4 is 60.",
+  "reference_note": "There is no reference-only part. Drums, bass, keys, lead, and pad are core. The arrangements reuse those files.",
+  "reference_part_count": 0,
+  "seed_meaning": "Seeds identify kits. Nothing is random.",
+  "stack_warning": "Use either the combined arrangement or the separate parts. Do not stack the part files on top of the combined file.",
+  "stochastic_draws": 0
+}

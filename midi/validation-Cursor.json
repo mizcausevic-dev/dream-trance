@@ -1,0 +1,1318 @@
+{
+  "arrangement": {
+    "agreement": "PASS",
+    "bytes": 6544,
+    "format": 1,
+    "kit_id": "k01",
+    "path": "midi/arrangement.mid",
+    "ppq": 960,
+    "sha256": "851e7f86e08e02615ab62994970d8f4db6c864256844912ff04ca4fd32d9dc6c",
+    "tracks": 6
+  },
+  "arrangements": [
+    {
+      "agreement": "PASS",
+      "bytes": 6544,
+      "format": 1,
+      "kit_id": "k01",
+      "path": "midi/arrangement.mid",
+      "ppq": 960,
+      "sha256": "851e7f86e08e02615ab62994970d8f4db6c864256844912ff04ca4fd32d9dc6c",
+      "tracks": 6
+    },
+    {
+      "agreement": "PASS",
+      "bytes": 4966,
+      "format": 1,
+      "kit_id": "k02",
+      "path": "midi/k02-soft-lantern/arrangement.mid",
+      "ppq": 960,
+      "sha256": "ec58ce1c7fc0df0b1d237b54afe569a1c755cc0bb5fdc2e4dbab80b2f7af0189",
+      "tracks": 6
+    },
+    {
+      "agreement": "PASS",
+      "bytes": 5023,
+      "format": 1,
+      "kit_id": "k03",
+      "path": "midi/k03-wide-meadow/arrangement.mid",
+      "ppq": 960,
+      "sha256": "4fcddf70c9a70f08585df4e5b5e99feb009918e1d6256470ae901db5ee83bbeb",
+      "tracks": 6
+    },
+    {
+      "agreement": "PASS",
+      "bytes": 4604,
+      "format": 1,
+      "kit_id": "k04",
+      "path": "midi/k04-night-window/arrangement.mid",
+      "ppq": 960,
+      "sha256": "e66c670e254f0b121ab34c2292ae7c05594d78e759642e6291443c45c97159fd",
+      "tracks": 6
+    }
+  ],
+  "catalog_path": "catalog/catalog-Cursor.json",
+  "catalog_sha256": "c2cd70caaa8121e6363aae124020b5ae8e2ad8f62f4cbd172d5893b96fa4236e",
+  "errors": [],
+  "files": [
+    {
+      "bytes": 1036,
+      "channels": [
+        9
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 114,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 3,
+      "meter": "4/4",
+      "notes": 114,
+      "path": "midi/k01-glass-harbor/drums-a.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "drums",
+      "score_agreement": "PASS",
+      "sha256": "efa6ba657717b3ee738422fe5c1191e3a0a9ffea1123e43417aff4dbe3fb12c7",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 209,
+      "channels": [
+        0
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 16,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 16,
+      "path": "midi/k01-glass-harbor/bass-a.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "bass",
+      "score_agreement": "PASS",
+      "sha256": "0702d218148f8bdd5befbaa391b14aadbd94b7acdf9910e7277e5c996eeeb4ce",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 625,
+      "channels": [
+        1
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 64,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 64,
+      "path": "midi/k01-glass-harbor/keys-a.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "keys",
+      "score_agreement": "PASS",
+      "sha256": "4b653ec5d1e562801974526d3d755a3356d67f5f4353606326a314e9ee05b292",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 179,
+      "channels": [
+        2
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 14,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 14,
+      "path": "midi/k01-glass-harbor/lead-a.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "lead",
+      "score_agreement": "PASS",
+      "sha256": "c849750fdf789eace0d61a66ef46cbabe3ce2edc03db63a45024a60c4c14eb53",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 184,
+      "channels": [
+        3
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 16,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 4,
+      "meter": "4/4",
+      "notes": 16,
+      "path": "midi/k01-glass-harbor/pad-a.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "pad",
+      "score_agreement": "PASS",
+      "sha256": "b46e86c9e4fde438f65235560fb4f9505327fc5a8daad42f4148104f365ec86b",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 570,
+      "channels": [
+        9
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 56,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 56,
+      "path": "midi/k01-glass-harbor/drums-b.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "drums",
+      "score_agreement": "PASS",
+      "sha256": "d176ac4ab3cdf0bae25883c9d4133355cf46ae4604ad40cc3551712172df877d",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 369,
+      "channels": [
+        0
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 1,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 32,
+      "outside_collection": 1,
+      "path": "midi/k01-glass-harbor/bass-b.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "bass",
+      "score_agreement": "PASS",
+      "sha256": "3981a11ad5621e9f3b0e124c0f7f0a355e23e1b1627b56e38303b96aba23d5fe",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 529,
+      "channels": [
+        1
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 56,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 4,
+      "meter": "4/4",
+      "notes": 56,
+      "path": "midi/k01-glass-harbor/keys-b.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "keys",
+      "score_agreement": "PASS",
+      "sha256": "189783705b92df2301bb6e722c87d28e5d9db73d4a5c408e4a5a39cda5fdfcef",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 258,
+      "channels": [
+        2
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 21,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 21,
+      "path": "midi/k01-glass-harbor/lead-b.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "lead",
+      "score_agreement": "PASS",
+      "sha256": "35617701330209b24066876b23bcd0555c1a6a95500494aa40b398391a3c07b9",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 465,
+      "channels": [
+        3
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 48,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 468750
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 128.0,
+      "format": 0,
+      "max_polyphony": 3,
+      "meter": "4/4",
+      "notes": 48,
+      "path": "midi/k01-glass-harbor/pad-b.mid",
+      "ppq": 960,
+      "requested_bpm": 128,
+      "role": "pad",
+      "score_agreement": "PASS",
+      "sha256": "a0f2d8b14a5c356ddfdb7273c67d3be836c1275739711cd72e8afa0152202aba",
+      "tempo_us": 468750,
+      "tracks": 1
+    },
+    {
+      "bytes": 826,
+      "channels": [
+        9
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 88,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 88,
+      "path": "midi/k02-soft-lantern/drums-a.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "drums",
+      "score_agreement": "PASS",
+      "sha256": "9659aa541750cf39f401d1abe222b1e5c00728e994ce8efe3580b31311ab242b",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 129,
+      "channels": [
+        0
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 8,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 8,
+      "path": "midi/k02-soft-lantern/bass-a.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "bass",
+      "score_agreement": "PASS",
+      "sha256": "52efb5dbc8f9cf588641ba17c3984f1a3b8ebf529fb4ee24ca2c8004d970c4da",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 185,
+      "channels": [
+        1
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 16,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 4,
+      "meter": "4/4",
+      "notes": 16,
+      "path": "midi/k02-soft-lantern/keys-a.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "keys",
+      "score_agreement": "PASS",
+      "sha256": "0b8dc6e379c84190074dbc58ab9e1d6c34400dd37f204a2136c8da9b59b43109",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 227,
+      "channels": [
+        2
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 18,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 18,
+      "path": "midi/k02-soft-lantern/lead-a.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "lead",
+      "score_agreement": "PASS",
+      "sha256": "f61be7eb6be81b863f12ac403a073da9ceec69581e5c019a8ad7ca70581886e4",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 257,
+      "channels": [
+        3
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 24,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 3,
+      "meter": "4/4",
+      "notes": 24,
+      "path": "midi/k02-soft-lantern/pad-a.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "pad",
+      "score_agreement": "PASS",
+      "sha256": "017b5582731e3fa33b189d91d72f0ab28d08099092b6a34575d6b28dc47a099b",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 1042,
+      "channels": [
+        9
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 112,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 112,
+      "path": "midi/k02-soft-lantern/drums-b.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "drums",
+      "score_agreement": "PASS",
+      "sha256": "b75777b4a6e26017b6976debe4d580de95aea61ee706c9052ea465434a68909c",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 210,
+      "channels": [
+        0
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 16,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 16,
+      "path": "midi/k02-soft-lantern/bass-b.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "bass",
+      "score_agreement": "PASS",
+      "sha256": "ec96ff46197ecee1f405e59ff10980eb09a1c766d506f4afe115f51140b48d23",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 353,
+      "channels": [
+        1
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 32,
+      "path": "midi/k02-soft-lantern/keys-b.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "keys",
+      "score_agreement": "PASS",
+      "sha256": "ae858b673ad876fcf96496a3ff7b3aa323f413c892774e1e8a980cf49af9fdf0",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 169,
+      "channels": [
+        2
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 12,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 1,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 12,
+      "outside_collection": 1,
+      "path": "midi/k02-soft-lantern/lead-b.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "lead",
+      "score_agreement": "PASS",
+      "sha256": "7fc977f7c267c3a4140b676a0fc212befbd83aa470a335fd0e7c451c59d76f6a",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 185,
+      "channels": [
+        3
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 16,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 454545
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 132.000132000132,
+      "format": 0,
+      "max_polyphony": 4,
+      "meter": "4/4",
+      "notes": 16,
+      "path": "midi/k02-soft-lantern/pad-b.mid",
+      "ppq": 960,
+      "requested_bpm": 132,
+      "role": "pad",
+      "score_agreement": "PASS",
+      "sha256": "7a1ff62e29ca579d32eefaec2977008b66e34f6ce48a5e2382bc383587fcc6d7",
+      "tempo_us": 454545,
+      "tracks": 1
+    },
+    {
+      "bytes": 666,
+      "channels": [
+        9
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 65,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 65,
+      "path": "midi/k03-wide-meadow/drums-a.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "drums",
+      "score_agreement": "PASS",
+      "sha256": "ebccfcd38613a9e322dedfb3831edfb0d75dcf1796a7e4fce4067e5dc42ddef4",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 369,
+      "channels": [
+        0
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 32,
+      "path": "midi/k03-wide-meadow/bass-a.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "bass",
+      "score_agreement": "PASS",
+      "sha256": "b9f889319588a30711e7ee51bbaa9444641d560456c210e5906d1bac391af361",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 321,
+      "channels": [
+        1
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 4,
+      "meter": "4/4",
+      "notes": 32,
+      "path": "midi/k03-wide-meadow/keys-a.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "keys",
+      "score_agreement": "PASS",
+      "sha256": "e43ff2bd5f0bbd7d8ebabf4019174c535bf51956674b333fbf4d2b29f9b43c55",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 236,
+      "channels": [
+        2
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 19,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 19,
+      "path": "midi/k03-wide-meadow/lead-a.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "lead",
+      "score_agreement": "PASS",
+      "sha256": "5343972de05e575ec09aee5c057a00e706d16e59d5c5817aafac041bc86b2b3a",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 178,
+      "channels": [
+        3
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 15,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 3,
+      "meter": "4/4",
+      "notes": 15,
+      "path": "midi/k03-wide-meadow/pad-a.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "pad",
+      "score_agreement": "PASS",
+      "sha256": "5cc202e1c48ecb2391bec9acbdab99a3f28a4bac0aa84978ab3da9bfb507861d",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 1362,
+      "channels": [
+        9
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 152,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 152,
+      "path": "midi/k03-wide-meadow/drums-b.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "drums",
+      "score_agreement": "PASS",
+      "sha256": "bbe16d005443eb3608ad786fc4bd6a855b201dc28daf8646a26a9d331c63eb7e",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 369,
+      "channels": [
+        0
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 1,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 32,
+      "outside_collection": 1,
+      "path": "midi/k03-wide-meadow/bass-b.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "bass",
+      "score_agreement": "PASS",
+      "sha256": "ef4a3b47ad03ae6a58f72df5cd824648ed9324c03624fbe98f3f494751d7f2ed",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 633,
+      "channels": [
+        1
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 64,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 64,
+      "path": "midi/k03-wide-meadow/keys-b.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "keys",
+      "score_agreement": "PASS",
+      "sha256": "334e532184b3f5a55b7b86b3d0c5d471ff768444fa8524d0af1e90f53b1c9b8a",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 289,
+      "channels": [
+        2
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 24,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 24,
+      "path": "midi/k03-wide-meadow/lead-b.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "lead",
+      "score_agreement": "PASS",
+      "sha256": "a1e67df3f1227e468bcc57cfc126f14766a078b6ee407a6f78c18421fae891c2",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 257,
+      "channels": [
+        3
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 24,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 441176
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 136.0001450668214,
+      "format": 0,
+      "max_polyphony": 3,
+      "meter": "4/4",
+      "notes": 24,
+      "path": "midi/k03-wide-meadow/pad-b.mid",
+      "ppq": 960,
+      "requested_bpm": 136,
+      "role": "pad",
+      "score_agreement": "PASS",
+      "sha256": "3668b2b43cffe272f338d29720d5f1fc0a826635232ad07fb1a527394cf47028",
+      "tempo_us": 441176,
+      "tracks": 1
+    },
+    {
+      "bytes": 634,
+      "channels": [
+        9
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 64,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 64,
+      "path": "midi/k04-night-window/drums-a.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "drums",
+      "score_agreement": "PASS",
+      "sha256": "5c0d340669d6233c855880dd7b8a32b837f447d3238261da82c78bf6442e0438",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 290,
+      "channels": [
+        0
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 24,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 24,
+      "path": "midi/k04-night-window/bass-a.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "bass",
+      "score_agreement": "PASS",
+      "sha256": "0e8923804991806433d037b3cf1ba97b566b81fa5f1b5c28237cb5bc529c58dc",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 369,
+      "channels": [
+        1
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 32,
+      "path": "midi/k04-night-window/keys-a.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "keys",
+      "score_agreement": "PASS",
+      "sha256": "3713e46823788c2fbdcd3d58afba1fe9d2677eb197a9c6619a473e67b21b91a3",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 150,
+      "channels": [
+        2
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 10,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 10,
+      "path": "midi/k04-night-window/lead-a.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "lead",
+      "score_agreement": "PASS",
+      "sha256": "e21843ae5f0ae1d103caf33a24a8731e7c5682504e287e135ad83da436a84545",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 185,
+      "channels": [
+        3
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 16,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 4,
+      "meter": "4/4",
+      "notes": 16,
+      "path": "midi/k04-night-window/pad-a.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "pad",
+      "score_agreement": "PASS",
+      "sha256": "1c7c263ce6123e4557f263ecd86f4da7aaef70f89806457cf157f93da81ecc52",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 714,
+      "channels": [
+        9
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 72,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 72,
+      "path": "midi/k04-night-window/drums-b.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "drums",
+      "score_agreement": "PASS",
+      "sha256": "7699e1c1f11f644095242789664b99f9bec26b15bd3c038c241d70fe8df984e7",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 209,
+      "channels": [
+        0
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 16,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 16,
+      "path": "midi/k04-night-window/bass-b.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "bass",
+      "score_agreement": "PASS",
+      "sha256": "d0db50a4da9d109b3b58e4106431789efcf2611772a6586217fcd64105bb6d9b",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 337,
+      "channels": [
+        1
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 32,
+      "path": "midi/k04-night-window/keys-b.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "keys",
+      "score_agreement": "PASS",
+      "sha256": "c046bf559d25821b5d39cba5499fb64db342d83497850d29d8bf85b9c1ce4042",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 370,
+      "channels": [
+        2
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 0,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 1,
+      "meter": "4/4",
+      "notes": 32,
+      "path": "midi/k04-night-window/lead-b.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "lead",
+      "score_agreement": "PASS",
+      "sha256": "316dc5ddf1595a653b935b77db7feceb61d41dc8aa4c57ab1bb5cf9501f5df05",
+      "tempo_us": 476190,
+      "tracks": 1
+    },
+    {
+      "bytes": 336,
+      "channels": [
+        3
+      ],
+      "checks": {
+        "eot": 30720,
+        "meter": "4/4",
+        "notes": 32,
+        "overlap": "PASS",
+        "parse": "PASS",
+        "ppq": 960,
+        "tempo": 476190
+      },
+      "core": true,
+      "departures": 1,
+      "effective_bpm": 126.000126000126,
+      "format": 0,
+      "max_polyphony": 2,
+      "meter": "4/4",
+      "notes": 32,
+      "outside_collection": 1,
+      "path": "midi/k04-night-window/pad-b.mid",
+      "ppq": 960,
+      "requested_bpm": 126,
+      "role": "pad",
+      "score_agreement": "PASS",
+      "sha256": "9cc1f5bd70efb41958ac582fdad00870ca37843975cfb62662a580c0f49cf6bf",
+      "tempo_us": 476190,
+      "tracks": 1
+    }
+  ],
+  "generator_version": "dream-trance-1.0.0",
+  "identity_check": {
+    "method": "For each core role, variation A and variation B differ in rhythm. Variation B is not a uniform transpose of variation A. No pitched part is a transposed copy of another pitched part with the same velocities. Variation A attack-time tuples are unique across the four kits.",
+    "recomputed": {
+      "errors": [],
+      "pass": true,
+      "roles": {
+        "bass": 4,
+        "drums": 4,
+        "keys": 4,
+        "lead": 4,
+        "pad": 4
+      }
+    }
+  },
+  "listening": "No human listening audition was performed for this build.",
+  "negative_tests": {
+    "boundary_rejected_at_write": "PASS",
+    "monophonic_overlap_detected": "PASS"
+  },
+  "pack_id": "dream-trance",
+  "percussion_map": {
+    "channel": 10,
+    "drums": {
+      "36": "Bass Drum 1",
+      "38": "Acoustic Snare",
+      "42": "Closed Hi-Hat",
+      "46": "Open Hi-Hat",
+      "49": "Crash Cymbal 1"
+    }
+  },
+  "repair_note": "No repairs were applied. This report is the first validation pass of the delivered bytes.",
+  "repairs": [],
+  "result": "PASS",
+  "rules": [
+    "file exists and parses",
+    "PPQ 960",
+    "encoded tempo and 4/4 meter",
+    "one end-of-track at the declared container",
+    "explicit note pairing",
+    "boundaries, velocity, range, monophonic bass, role polyphony caps",
+    "channel 10 drums limited to the declared map",
+    "same-pitch overlap is illegal, including across channel 10 arrangement tracks",
+    "note-offs precede note-ons that share a tick",
+    "no program changes or other channel messages",
+    "reopened notes match the canonical score",
+    "each arrangement track is the source part placed at the declared bar offsets",
+    "variation A attack times are unique per role across kits",
+    "variation B is a different phrase from variation A and not a uniform transpose",
+    "no pitched part is a transposed copy of another with the same velocities",
+    "closed and open hats do not overlap"
+  ],
+  "score_path": "score/canonical-score-Cursor.json",
+  "score_sha256": "168d5ac9779ab86036b3ddca2ec004a2797dbccddce8fb57416fd9de4e1ae68d",
+  "validator_version": "dream-trance-1.0.0"
+}

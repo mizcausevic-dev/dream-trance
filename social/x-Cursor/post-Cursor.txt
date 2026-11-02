@@ -1,0 +1,5 @@
+DRAFT
+This label is not the post body.
+
+POST BODY
+Dream Trance: Glass Harbor 128, Soft Lantern 132, Wide Meadow 136, Night Window 126. Preview Glass Harbor bars 17-24, 15.047s at 128 BPM, not the 32-bar MIDI. preview, not a master. Film: preview, not master. No human listening audition was performed for this build.
